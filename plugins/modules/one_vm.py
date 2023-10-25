@@ -47,7 +47,7 @@ options:
     type: str
   template_name:
     description:
-      - Name of VM template to use to create a new instace
+      - Name of VM template to use to create a new instance
     type: str
   template_id:
     description:
@@ -195,12 +195,12 @@ options:
     version_added: '0.2.0'
   datastore_id:
     description:
-      - Name of Datastore to use to create a new instace
+      - Name of Datastore to use to create a new instance
     version_added: '0.2.0'
     type: int
   datastore_name:
     description:
-      - Name of Datastore to use to create a new instace
+      - Name of Datastore to use to create a new instance
     version_added: '0.2.0'
     type: str
   updateconf:
